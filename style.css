@@ -1,0 +1,654 @@
+body{
+     margin:0px;
+}
+
+html{
+	font-size: 62.5%;
+}
+a{
+
+	text-decoration: none;
+	color:#000;
+
+}
+a:hover{
+	color:#37806B;
+
+}
+li{
+	list-style-type: none;
+}
+#heading{
+	background-color:#37806B;
+
+}
+.brand-name{
+	font-size: 3rem;
+	margin-left:17rem;
+	color:#ffff;
+}
+.link{
+	margin-top:3rem;
+	font-size: 1.5rem;
+	position:absolute;
+	left:57%;
+	font-color:#fff;
+
+}
+.link-item{
+	margin-left:2rem;
+	color:#fff;
+}
+
+
+
+
+
+
+
+.link,.heading{
+	display:inline-flex;
+
+
+
+}
+
+
+
+
+
+.left{
+	width:50%;
+	padding:15rem 5rem 10rem;
+
+}
+.one-section-left-h4{
+	font-size: 2rem;
+	width:65%;
+	margin-left:12rem;
+	margin-bottom: .5rem;
+}
+.one-section-left-h1{
+	font-size: 5rem;
+	width:65%;
+	margin-left:12rem;
+	margin-top:.5rem;
+	margin-bottom: 1.5rem;
+}
+.one-section-left-p{
+	font-size:1.8rem;
+	width:65%;
+	margin-top:.2rem;
+	margin-left:12rem;
+}
+.one-section-left-button{
+                  padding:1.2rem 4rem;
+                  margin-left:12rem;
+                  background-color:#37806B;
+                 text-decoration:none;
+                 color:#fff;
+                 border-radius: 2rem 0 2rem 0;
+                 border-color: #fff;
+}
+
+.right-image{
+	height:25rem;
+	width:32rem;
+	position:absolute;
+	right:27%;
+	top:28%;
+}
+.image5,.image6,.third-right-image5,.second-image3,.second-image4,.right-image2{
+	height:25rem;
+	width:32rem;
+	position:absolute;
+	right:13%;
+	top:41%;
+}
+
+
+
+/*our services*/
+
+
+.what-2
+{
+	display: inline-flex;
+	margin-left:15rem;
+}
+.our-service-1 , .our-service-2 , .our-service-3{
+	padding:3rem;
+	width:22%;
+	margin:1.5rem;
+	
+}
+
+.our-service-1 , .our-service-3{
+	background-color: #CAA892;
+	border-radius: 3rem 0 3rem 0;
+}
+.services-h2{
+	font-size:2rem;
+	color:#fff;
+}
+.services-h2-2{
+	color:#000;
+	font-size:2rem;
+
+
+}
+.our-service-2{
+		border-radius: 3rem 0 3rem 0;
+		border-style: groove;
+}
+.what-1{
+	width:30%;
+	margin-left:17rem;
+
+}
+.what-h4{
+	font-size:1.5rem;
+	margin-bottom:.5rem;
+}
+.what-h1{
+	font-size: 3rem;
+	margin-top:.5rem;
+}
+
+
+
+
+
+
+
+
+/*second*/
+
+#two{
+	display: inline-block;
+	
+}
+.two-left{
+/*	position: relative;*/
+	
+	/*width:0%;*/
+	position: relative;
+	left:84%;
+
+
+}
+
+
+
+.two{
+	width:50%;
+	padding:10rem 5rem 5rem;
+
+}
+.two-right-h4{
+	font-size: 2rem;
+	width:60%;
+	margin-left:12rem;
+	margin-bottom: .5rem;
+}
+.two-right-h1{
+	font-size: 5rem;
+	width:65%;
+	margin-left:12rem;
+	margin-top:.5rem;
+	margin-bottom: 1.5rem;
+}
+.two-right-p{
+	font-size:1.8rem;
+	width:65%;
+	margin-top:.2rem;
+	margin-left:12rem;
+}
+.two-right-button{
+                  padding:1.2rem 4rem;
+                  margin-left:12rem;
+                  background-color:#37806B;
+                 text-decoration:none;
+                 color:#fff;
+                 border-radius: 2rem 0 2rem 0;
+                 border-color: #fff;
+}
+
+
+.two-right{
+	width:50%;
+	/*position:absolute;
+    left:5%;
+     bottom:-52%;*/
+    /* position: relative;*/
+}
+.second-image4{
+	position:absolute;
+    top:140%;
+	left:25%;
+}
+.second-image3{
+	position:absolute;
+	left:15%;
+	top:155%;
+}
+
+
+
+
+
+/*20year-section*/
+
+.image5{
+	position:absolute;
+	left:50%;
+	top:210%;
+}
+.image6{
+	position: absolute;
+	left:65%;
+	top:230%;
+}
+
+.twenty-year-text{
+	width:50%;
+	margin-top:-15rem;
+
+  
+
+
+}
+.twenty-year-text{
+	font-size:3.5rem;
+	margin-left:15rem;
+	width:30%;
+}
+.twenty-year-text-h4{
+	margin-bottom:.1rem;
+	font-size: 15rem;
+	font-size: 72px;
+  background: -webkit-linear-gradient(#37806B, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.twenty-year-text-h1{
+	margin-top:.1rem;
+}
+.twenty-year-text-button{
+	             padding:1.2rem 4rem;
+                  margin-left:3rem;
+                  background-color:#37806B;
+                 text-decoration:none;
+                 color:#fff;
+                 border-radius: 2rem 0 2rem 0;
+                 border-color: #fff;
+}
+
+
+
+
+
+
+
+
+/*noOfProject*/
+#number{
+	margin-top:10rem;
+}
+.no-of-project{
+	height:30rem;
+	background-color: #F8F8F8;
+	text-align: center;
+}
+.number-h1{
+	padding-top:5rem;
+	font-size: 2.5rem;
+	/*width:30%;*/
+	/*margin-left:55rem;*/
+	text-align: center;
+
+}
+
+
+
+
+
+
+/*reviewsection*/
+#review{
+	margin:10rem 0 7rem 0;
+
+}
+.review-h1{
+	text-align: center;
+	font-size:3rem;
+	margin-bottom: 5rem;
+}
+.review-h3{
+	text-align: center;
+	font-size: 2rem;
+	margin-bottom: 1rem;
+	color:#fff;
+
+}
+.review-row{
+	text-align:center;   
+	margin-bottom: 3rem;
+}
+.review-col-1,.review-col-2,.review-col-3{
+            width:25%;
+            margin-left:5rem;
+            display: inline-block;
+            background-color:#CAA892;
+              border-radius: 3rem 0 3rem 0;
+              height: 13rem;
+}
+.review-p{
+      font-size:1rem;
+      padding: 0 2rem;
+
+
+}
+.review-col-2{
+	background-color: #ffff;
+	border-style: groove;
+}
+.review-middle{
+	color:#000;
+}
+
+
+/*blogSection*/
+
+#our-blog{
+	text-align:center;
+	
+	padding:5rem 15rem;
+	background-color: #F8F8F8;
+
+}
+.blog-h1{
+	font-size:3rem;
+	text-align:center;
+	margin-bottom: 10rem;
+}
+.blog-section-row{
+
+     display:inline-flex;
+}
+.blog-h3{
+	font-size: 2.5rem;
+}
+.blog-p{
+	font-size: 1.5rem;
+	width:50%;
+	margin-left:17rem;
+}
+.blog-image{
+	height:30rem;
+	width:35rem;
+	
+}
+.blog-button{
+	           padding:1.2rem 4rem;
+                  margin-top:2rem;
+                  background-color:#37806B;
+                 text-decoration:none;
+                 color:#fff;
+                 border-radius: 2rem 0 2rem 0;
+                 border-color: #fff;
+}
+
+/*contactOrEmailAddress*/
+.contact-me{
+	margin:10rem 0;
+	text-align:center;
+}
+.contact-h1{
+	font-size:3rem;
+}
+.email{
+	width:47.7rem;
+	height:2.5rem;
+	padding-top:.03rem;
+	position:relative;
+	margin-top:5rem;
+	left:1rem;
+	display: inline-flex;
+	
+}
+.email-box{
+
+	/*width:47.7rem;*/
+	width:45rem;
+	height:3.5rem;
+	background-color:#EBEBEB;
+	border-style:none;
+	border-radius: 2rem 0 0 0;
+padding-left:3rem;
+}
+.subscribe{
+	width:13rem;
+	height:3.5rem;
+	border-radius: 0 0 2rem 0;
+	border-style:none;
+	background-color:#37806B;
+	color:#fff;
+	font-weight:800;
+}
+.contact-hr{
+	width:20%;
+	height:5%
+}
+.contact-p{
+	font-size: 1.3rem;
+
+}
+/*footer*/
+#footer{
+   margin:5rem 0 0 0;
+   background-color:#F8F8F8;
+   padding:1rem;
+}
+/*.brand-row{
+	display: inline-block;
+}*/
+.footer-col-1,.footer-col-two,.footer-col-3,.footer-col-4{
+	display:inline-flex;
+	margin-left:10rem;
+}
+
+
+
+.copyright{
+	text-align:center;
+	font-size: 1.2rem;
+}
+
+
+.footer-brand-para{
+	width:50%;
+	font-size:1.3rem;
+	padding-left:.5rem;
+	margin-left:5rem;
+}
+.footer-brand-h1{
+	font-size:3.5rem;
+	margin-bottom:.1rem;
+	margin-left:5rem;
+}
+.brand-footer{
+	margin-right:0px;
+}
+.anchor-footer-2{
+	margin-top:2rem;
+}
+.list{
+	margin:3rem;
+}
+.anchor-footer-3,.anchor-footer-2,.company-list,.company-list-h3{
+	margin-bottom:.5rem;
+	font-size:1.3rem;
+	margin-top:.05rem;
+}
+.company-list-h3{
+	margin-bottom:0px;
+}
+{
+
+}
+/*.footer-col-2-h3{
+	font-size: 1.5rem;
+	margin-top:6.5rem;
+}
+*/
+
+
+
+
+
+@media(max-width: 400px)
+{
+	html{
+		font-size:23%;
+	}
+	.brand-name{
+		margin-left:5rem;
+	}
+	.one-section-left-button,.one-section-left-p,.one-section-left-h1,.one-section-left-h4{
+		margin-left:2.5rem;
+	}
+	.right-image{
+	height:25rem;
+	position:absolute;
+	right:20%;
+	top:15%;
+}
+.right-image2{
+	height:25rem;
+	position:absolute;
+	right:7%;
+	top:25%;
+}
+.one-section-left-button{
+	padding:1rem 2rem;
+}
+.what-2
+{
+	display: inline-flex;
+	margin-left:5rem;
+}
+.what-1{
+	width:50%;
+	margin-left:10rem;
+
+}
+.second-image4{
+	position:absolute;
+    top:80%;
+	left:20%;
+}
+.second-image3{
+	position:absolute;
+	left:11%;
+	top:87%;
+}
+
+/*20yearSection*/
+
+.image5{
+	position:absolute;
+	left:50%;
+	top:120%;
+}
+.image6{
+	position: absolute;
+	left:65%;
+	top:130%;
+}
+/*.number-h1{
+	padding-top:5rem;
+	font-size: 2.5rem;
+	width:30%;
+	text-align: center;
+	/*margin-left:35rem;*/
+
+.review-p{
+      font-size:0.5rem;
+      padding: 0 2rem;
+
+
+}
+.review-col-1,.review-col-2,.review-col-3{
+            width:25%;
+            margin-left:5rem;
+            display: inline-block;
+            background-color:#CAA892;
+              border-radius: 3rem 0 3rem 0;
+              height: 20rem;
+}
+.review-col-2{
+     background-color: #fff;
+
+}
+
+.blog-image{
+	height:25rem;
+	width:25rem;
+	
+}
+.blog-p{
+	font-size: 1.5rem;
+	width:50%;
+	margin-left:9rem;
+}
+.blog-h3{
+	font-size: 1.5rem;
+}
+.email-box{
+	font-size: .5rem;
+}.subscribe{
+	font-size: .3rem;
+	font-weight: 600;
+}
+.company-list,.company-list-h3{
+	margin-left:-3rem;
+}
+.footer-brand-h1{
+	font-size:3.5rem;
+	margin-bottom:.1rem;
+	margin-left:10rem;
+}
+.footer-brand-para{
+	width:90%;
+	margin-left: 10rem;
+}
+.blog-button,.twenty-year-text-button,.one-section-left-button{
+	width:19.5rem;
+	height:5rem;
+	font-size:.5rem;
+}
+.two-right-button{
+	width:20rem;
+	height:5rem;
+	font-size: .5rem;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
